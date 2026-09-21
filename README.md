@@ -1,20 +1,22 @@
-﻿# Step_semester_3
+﻿# Step Semester 3
 
-Semester 3 — Version Control & Daily Workflow Standard
+Semester 3 Java practice projects covering five learning sessions.
 
-## Date: 11-09-2026
+## Sessions
 
-**Today's Work:**
-- Initialized repository structure following Semester 3 guidelines.
-- Configured branching model with main, develop, and feature/session_1.
-- Created empty Java project skeleton on the develop branch.
-- Created feature/session_1 branch from develop for Session 1 work.
-- Implemented string topic problems under class_problems and assigment_problems.
+| Session | Topic | Project |
+| --- | --- | --- |
+| 1 | Strings | [Session 1 project](feature-session_1/Step_semester_3-feature-session_1/) |
+| 2 | Strings | [Session 2 project](feature-session_2/Step_semester_3-feature-session_2/) |
+| 3 | Object-oriented programming | [Session 3 project](feature-session_3/Step_semester_3-feature-session_3/) |
+| 4 | Constructors | [Session 4 project](feature-session_4/Step_semester_3-feature-session_4/) |
+| 5 | Encapsulation | [Session 5 project](feature-session_5/Step_semester_3-feature-session_5/) |
 
-**Next Session Plan:**
-- Continue with Session 2 topics on a new feature branch created from develop.
+## Repository Structure
 
-**Issues Faced:**
-- None
+Each session contains Java source files under `src/main/java`, organized into:
 
----
+- `class_problems`
+- `assigment_problems`
+
+The projects use standard Java source layout and include the individual session README files with each project.
